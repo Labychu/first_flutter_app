@@ -4,4 +4,4 @@ My first Flutter project.
 
 ## Usage
 
-A simple click count from scratch.
+A simple click count.
